@@ -6,6 +6,7 @@
 
 
 
-![alt text](https://i.pinimg.com/originals/a0/b3/17/a0b3173ade141196aa28ece7f2cb7b79.jpg)
+![alt text](https://i.pinimg.com/originals/fe/28/74/fe287411625f7479c70af661af595f96.jpg)
 - i like cats
-- [cool song pls press](https://www.youtube.com/watch?v=WAXnqjUfal4)
+- i also like nirvana
+- [cool song pls press (TOTALLY NOT NIRVANA)](https://youtu.be/ZpiEunhVs9o)
