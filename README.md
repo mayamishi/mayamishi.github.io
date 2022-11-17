@@ -2,4 +2,4 @@
 
 My favorite stuff
 - wow
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Twemoji_1f600.svg/1200px-Twemoji_1f600.svg.png)
+![alt text](https://i.pinimg.com/originals/a0/b3/17/a0b3173ade141196aa28ece7f2cb7b79.jpg)
