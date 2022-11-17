@@ -1,4 +1,4 @@
-### Welcome to *mayamishi.github.io's cool website*
+### Welcome to *mayamishi.github.io cool website*
 > my safe space to make me nerd out about the bands that I like
 
 ### **My favorite stuff**
