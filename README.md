@@ -26,9 +26,9 @@
 
 
 ![alt text](https://i.pinimg.com/originals/fe/28/74/fe287411625f7479c70af661af595f96.jpg)
-<p align="center">
 
- **kurt cobain with a cat**
+
+**kurt cobain with a cat**
   
   
 
