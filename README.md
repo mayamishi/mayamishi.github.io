@@ -26,16 +26,16 @@
 
 
 ![alt text](https://i.pinimg.com/originals/fe/28/74/fe287411625f7479c70af661af595f96.jpg)
+<p align="center">
 
  **kurt cobain with a cat**
   
   
- <p align="center"> 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5vHLwhxxlGzmClMcxRRFPr?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
- **MEMBERS:** 
+**members**
   
 1. Kurt Cobain
   - Guitarist
