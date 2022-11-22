@@ -3,7 +3,7 @@
 
 
 <p align="center">
-### **My favorite band and it's members**
+**My favorite band and it's members**
 <p align="center">
   
   
