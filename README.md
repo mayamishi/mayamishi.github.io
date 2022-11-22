@@ -2,8 +2,8 @@
 > my safe space to make me nerd out about the bands that I like
 
 
+**My favorite band and its members*
 <p align="center">
-**My favorite band and it's members**
 
   
 <p align="center">  
