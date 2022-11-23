@@ -50,7 +50,7 @@
 
 
  
-  -Bassist
+ - Bassist
   
   
   
