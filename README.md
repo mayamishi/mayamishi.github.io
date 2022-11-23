@@ -34,9 +34,11 @@
 **Members:**
   
 1. Kurt Cobain
+  <img src="https://images.ctfassets.net/r1mvpfown1y6/7IahBYPHC8G0QSI0I8UgKC/9b722837227b7e5193fa86d5d04ee897/16278-kurt-cobain-50th-birthday-3up.jpg?w=800&q=50" width="250" height="250"/>
   - Guitarist
- ![alt text](https://images.ctfassets.net/r1mvpfown1y6/7IahBYPHC8G0QSI0I8UgKC/9b722837227b7e5193fa86d5d04ee897/16278-kurt-cobain-50th-birthday-3up.jpg?w=800&q=50)
+ 
 3. David Grohl
+  <img src="https://pbs.twimg.com/media/EFUflwEW4AEKUOC.jpg" width="250" height="250"/>
   - Drummer
 5. Kris Noveselic
   - Bassist
