@@ -35,6 +35,7 @@
   
 1. Kurt Cobain
   - Guitarist
+ ![alt text](https://images.ctfassets.net/r1mvpfown1y6/7IahBYPHC8G0QSI0I8UgKC/9b722837227b7e5193fa86d5d04ee897/16278-kurt-cobain-50th-birthday-3up.jpg?w=800&q=50)
 3. David Grohl
   - Drummer
 5. Kris Noveselic
