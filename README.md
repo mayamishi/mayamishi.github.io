@@ -45,6 +45,7 @@
 
 
 5. Kris Noveselic
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8h4bKBmefPZ34fup3a5T07nOlKymDuRSD_0PRYtjWd60mYCQTwwTKS_BJDNHm1Pj_NWg&usqp=CAU" width="250" height="250"/>
 
 
