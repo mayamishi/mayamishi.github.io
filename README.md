@@ -2,7 +2,7 @@
 > my safe space to make me nerd out about the bands that I like
 
 
-**My favorite band and its members**
+**My favorite band and its members!**
 
 
   
