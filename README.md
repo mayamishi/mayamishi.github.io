@@ -55,9 +55,11 @@
   
   
   
- ###  >this is *Nirvana*!
+ ###   this is *Nirvana*!
  
  <img src="https://media.pitchfork.com/photos/61c4bba40c18011163e16a3f/16:9/w_3344,h_1881,c_limit/Nirvana.jpg" width="560" height="315"/>
+ 
+ Nirvana was an American rock band formed in Aberdeen, Washington, in 1987. Founded by lead singer and guitarist Kurt Cobain and bassist Krist Novoselic, the band went through a succession of drummers, most notably Chad Channing, before recruiting Dave Grohl in 1990. Nirvana's success popularized alternative rock, and they were often referenced as the figurehead band of Generation X. Their music maintains a popular following and continues to influence modern rock culture.
  
 
             
